@@ -23,5 +23,5 @@ npm run watch
 
 package.json 
 "scripts": {
-    "watch": "sass --watch stylesheets:cssnp"
+    "watch": "sass --watch nombredirectorio:css"
   },
